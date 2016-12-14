@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853731173494",
+    "firebase_url": "https://nueva-app-android.firebaseio.com",
+    "project_id": "nueva-app-android",
+    "storage_bucket": "nueva-app-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853731173494:android:cf01cc5f26896d48",
+        "android_client_info": {
+          "package_name": "com.d5.urbanairship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853731173494-41bk0hbafgs4er32nk2seuedlfvhgl81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3uYXNErnjDkmksX8DnLKRENivhDaGRNM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
